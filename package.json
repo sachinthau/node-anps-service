@@ -1,0 +1,19 @@
+{
+  "name": "sachintha",
+  "version": "1.0.0",
+  "description": "APNS Push Service (RestAPI)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "APPLE",
+    "APNS",
+    "Push",
+    "Notification",
+    "RestAPI",
+    "HTTP2"
+  ],
+  "author": "Sachintha Udara",
+  "license": "MIT"
+}
